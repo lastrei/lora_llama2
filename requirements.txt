@@ -6,7 +6,7 @@ loguru==0.7.0
 numpy==1.21.4
 pandas==1.2.5
 tqdm==4.62.3
-deepspeed==0.9.5
+deepspeed==0.15.1
 tensorboard
 sentencepiece
 transformers_stream_generator
